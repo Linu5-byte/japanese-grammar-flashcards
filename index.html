@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>日本語文法フラッシュカード</title>
+<meta name="description" content="Japanese grammar flashcards — spaced repetition study app" />
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">文</span>
+      <div class="brand-text">
+        <h1>日本語文法</h1>
+        <p>Grammar Flashcards</p>
+      </div>
+    </div>
+    <div class="stats" id="stats">
+      <div class="stat"><span class="stat-num" id="stat-due">0</span><span class="stat-label">due</span></div>
+      <div class="stat"><span class="stat-num" id="stat-new">0</span><span class="stat-label">new</span></div>
+      <div class="stat"><span class="stat-num" id="stat-mastered">0</span><span class="stat-label">mastered</span></div>
+    </div>
+    <button class="icon-btn" id="theme-toggle" title="Toggle theme" aria-label="Toggle theme">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.4 5.4 0 0 1-7.54-7.54A9 9 0 0 0 12 3Z"/></svg>
+    </button>
+  </header>
+
+  <main class="main">
+    <section class="controls">
+      <div class="control-row">
+        <div class="mode-switch" role="tablist" aria-label="Study mode">
+          <button class="mode-btn active" data-mode="due">Due for review</button>
+          <button class="mode-btn" data-mode="all">Browse all</button>
+        </div>
+        <button class="ghost-btn" id="tag-toggle">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41 11 3.83A2 2 0 0 0 9.59 3.24L4 3a1 1 0 0 0-1 1l.24 5.59a2 2 0 0 0 .59 1.41l9.58 9.59a2 2 0 0 0 2.83 0l4.35-4.35a2 2 0 0 0 0-2.83Z"/><circle cx="7.5" cy="7.5" r="1.2" fill="currentColor" stroke="none"/></svg>
+          <span id="tag-toggle-label">All topics</span>
+        </button>
+      </div>
+      <div class="tag-panel" id="tag-panel" hidden></div>
+    </section>
+
+    <section class="deck-area">
+      <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+
+      <div class="card-wrap" id="card-wrap">
+        <div class="empty-state" id="empty-state" hidden>
+          <p class="empty-emoji">やった！</p>
+          <h2>All caught up</h2>
+          <p>Nothing due right now. Switch to <strong>Browse all</strong> to study anyway, or come back later.</p>
+        </div>
+
+        <div class="card" id="card" tabindex="0">
+          <div class="card-inner" id="card-inner">
+            <div class="card-face card-front">
+              <span class="card-tag" id="front-tag"></span>
+              <div class="card-body" id="front-text"></div>
+              <p class="flip-hint">Tap card or press Space to reveal</p>
+            </div>
+            <div class="card-face card-back">
+              <span class="card-tag" id="back-tag"></span>
+              <div class="card-body card-body-back" id="back-text"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="grade-row" id="grade-row" hidden>
+        <button class="grade-btn again" data-grade="0"><span class="grade-key">1</span>Again</button>
+        <button class="grade-btn hard" data-grade="1"><span class="grade-key">2</span>Hard</button>
+        <button class="grade-btn good" data-grade="2"><span class="grade-key">3</span>Good</button>
+        <button class="grade-btn easy" data-grade="3"><span class="grade-key">4</span>Easy</button>
+      </div>
+
+      <div class="reveal-row" id="reveal-row">
+        <button class="reveal-btn" id="reveal-btn">Show answer <span class="key-hint">space</span></button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <button class="text-btn" id="reset-progress">Reset progress</button>
+    <span class="dot">·</span>
+    <span>64 cards · progress saved on this device</span>
+  </footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
