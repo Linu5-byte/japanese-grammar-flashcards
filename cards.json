@@ -1,322 +1,322 @@
 [
   {
-    "front": "きのうのパーティーは楽しかった＿＿。（伝聞：聞いた話）",
-    "back": "そうだ（伝聞）— reports what you heard/read, no visual judgment. Attaches to plain form of verbs/i-adj/na-adj+だ/noun+だ.<br>例：天気予報によると、明日は雨が降る<b>そうです</b>。",
+    "front": "きのうのパーティーは楽しかった＿＿。 (hearsay: something you heard)",
+    "back": "~そうだ (hearsay) — reports what you heard or read; no personal visual judgment involved. Attaches to the plain form of verbs / i-adjectives / na-adjective+だ / noun+だ.<br>Example: 天気予報によると、明日は雨が降る<b>そうです</b>。— \"According to the weather forecast, it will rain tomorrow.\"",
     "tag": "そうだ_伝聞"
   },
   {
-    "front": "あの雲を見て。今にも雨が＿＿。（見た目の判断：様態）",
-    "back": "そうだ（様態）— \"looks like/seems like\" based on visual/sensory impression. Verb ます形+そう、i-adj stem+そう（いい→よさそう、ない→なさそう）。<br>例：この料理はおいしい<b>そうです</b>（見た目で）。",
+    "front": "あの雲を見て。今にも雨が＿＿。 (visual judgment: how it looks)",
+    "back": "そうだ (様態, appearance) — \"looks like / seems like,\" based on a visual or sensory impression. Verb ます-stem + そう; i-adjective stem + そう (いい→よさそう, ない→なさそう).<br>Example: この料理はおいしい<b>そうです</b>（見た目で）。— \"This dish looks delicious (going by appearance).\"",
     "tag": "そうだ_様態"
   },
   {
     "front": "そうだ（様態）とそうだ（伝聞）の接続の違いは？",
-    "back": "様態：動詞ます形／い形容詞・な形容詞の語幹＋そう（例：降りそう、寒そう）。伝聞：すべて普通形＋そう（例：降るそうだ、寒いそうだ）。接続形が変わるだけで意味は全く別物。",
+    "back": "Appearance: verb ます-stem / i-adjective or na-adjective stem + そう (e.g. 降りそう, 寒そう). Hearsay: plain form + そう for everything (e.g. 降るそうだ, 寒いそうだ). Only the connection form changes — the meanings are completely different.",
     "tag": "そうだ_様態"
   },
   {
-    "front": "彼は先生の＿＿。（外から見て、そう見える＝推量の根拠が見た目）",
-    "back": "ようだ — 話者自身の五感・状況判断に基づく推量。比較的主観的・婉曲的。名詞は「の」＋ようだ、な形容詞は「な」＋ようだ。<br>例：あの人は日本人の<b>ようです</b>。",
+    "front": "彼は先生の＿＿。 (from outward appearance — the basis for the guess is what you observe)",
+    "back": "ようだ — a guess based on the speaker's own senses or overall situational judgment. Relatively subjective and indirect. Nouns take の+ようだ, na-adjectives take な+ようだ.<br>Example: あの人は日本人の<b>ようです</b>。— \"That person seems to be Japanese.\"",
     "tag": "ようだ_vs_そうだ_vs_らしい"
   },
   {
-    "front": "彼は先生＿＿。（人から聞いた情報に基づく推量、伝聞寄り）",
-    "back": "らしい — 客観的な情報・伝聞に基づく推量。ようだより話者の主観が薄い。普通形接続（な形容詞・名詞はそのまま＋らしい）。<br>例：天気予報では明日は晴れる<b>らしい</b>。",
+    "front": "彼は先生＿＿。 (a guess based on info heard from someone else — closer to hearsay)",
+    "back": "らしい — a guess based on objective information or hearsay. Carries less of the speaker's own subjectivity than ようだ. Connects to the plain form (na-adjectives and nouns attach directly + らしい).<br>Example: 天気予報では明日は晴れる<b>らしい</b>。— \"According to the weather forecast, it'll apparently be sunny tomorrow.\"",
     "tag": "ようだ_vs_そうだ_vs_らしい"
   },
   {
     "front": "ようだ・そうだ・らしい の根拠の強さを比べると？",
-    "back": "そうだ（様態）＝直接の視覚的印象が根拠／ようだ＝自分の感覚・状況証拠を総合した推量／らしい＝人から聞いた・外部情報が根拠、やや客観的・伝聞的。この3つは同じ「〜みたいだ」でも根拠の出所が違う。",
+    "back": "そうだ (appearance) = based directly on a visual impression / ようだ = a guess combining the speaker's own senses and situational evidence / らしい = based on something heard from others or external information, somewhat objective and hearsay-like. All three can loosely mean \"seems like / apparently,\" but the source of the evidence differs.",
     "tag": "ようだ_vs_そうだ_vs_らしい"
   },
   {
-    "front": "このケーキは食べる＿＿もったいない。（〜するには惜しい／〜するほどではない）",
-    "back": "〜には（もったいない/惜しい）— 動詞辞書形＋には＋評価。「〜するには」で「〜する目的・場面としては」という基準を示す。",
+    "front": "このケーキは食べる＿＿もったいない。 (too good to ~ / not quite worth ~ing)",
+    "back": "~には (もったいない/惜しい) — verb dictionary form + には + evaluation. \"~するには\" sets up a standard meaning \"as a purpose/occasion for doing ~.\"",
     "tag": "比較"
   },
   {
-    "front": "彼女は思った＿＿優しい人だった。（〜割には、〜という予想より）",
-    "back": "〜より（意外だ、思ったより）— AはBより〜だ、で比較の基準を示す。「〜と思っていたより」の形も頻出。",
+    "front": "彼女は思った＿＿優しい人だった。 (more ~ than expected / contrary to what one assumed)",
+    "back": "~より (surprisingly, more than expected) — \"A は B より ~だ\" shows the basis for a comparison. The pattern \"~と思っていたより\" (more than I thought) is also very common.",
     "tag": "比較"
   },
   {
-    "front": "このかばんはあのかばん＿＿軽い。（同程度）",
-    "back": "〜くらい／〜ほど＋比較表現。肯定文では「くらい」で同程度を表すことが多い（例：あのかばんくらい軽い）。",
+    "front": "このかばんはあのかばん＿＿軽い。 (to the same degree as)",
+    "back": "~くらい / ~ほど + comparison. In affirmative sentences, くらい is more often used to show an equal degree (e.g. あのかばんくらい軽い — \"as light as that bag\").",
     "tag": "比較"
   },
   {
-    "front": "彼＿＿速く走れる人はいない。（否定文で最上級：〜ほど…ない）",
-    "back": "〜ほど…ない — 名詞＋ほど＋否定形で「これ以上〜なものはない」という最上級的な意味。<br>例：彼<b>ほど</b>頼りになる人はい<b>ない</b>。",
+    "front": "彼＿＿速く走れる人はいない。 (superlative in a negative sentence: nobody ~ as much as)",
+    "back": "~ほど…ない — noun + ほど + negative form, meaning \"there's nothing more ~ than this,\" i.e. a superlative sense.<br>Example: 彼<b>ほど</b>頼りになる人はい<b>ない</b>。— \"There's no one as reliable as him.\"",
     "tag": "比較"
   },
   {
-    "front": "雨が降った＿＿、試合は中止になるだろう。（仮定・もし〜なら）",
-    "back": "たら — 個別・具体的な仮定や、実際に起きた順序（〜した後で）を表す。会話でよく使う。<br>例：家に帰っ<b>たら</b>、電話します。",
+    "front": "雨が降った＿＿、試合は中止になるだろう。 (hypothetical: if ~)",
+    "back": "たら — expresses an individual, concrete hypothesis, or a sequence of events that actually happens (\"after doing ~\"). Common in conversation.<br>Example: 家に帰っ<b>たら</b>、電話します。— \"I'll call you once/after I get home.\"",
     "tag": "なら_たら_ば"
   },
   {
-    "front": "安い＿＿、この店で買います。（話題として取り上げて条件を出す）",
-    "back": "なら — 相手の発言・話題を受けて条件やアドバイスを述べる。「〜と言うなら／〜のことなら」の意味合いが強い。<br>例：京都に行く<b>なら</b>、清水寺がおすすめです。",
+    "front": "安い＿＿、この店で買います。 (bringing up a topic and stating a condition based on it)",
+    "back": "\"なら\" — states a condition or piece of advice in response to something the other person said or brought up. Carries a strong nuance of \"if that's what you're saying / if it's about ~.\"<br>Example: 京都に行く<b>なら</b>、清水寺がおすすめです。— \"If you're going to Kyoto, I'd recommend Kiyomizu-dera.\"",
     "tag": "なら_たら_ば"
   },
   {
-    "front": "毎日練習すれ＿＿、上手になります。（一般的・必然的な因果関係）",
-    "back": "ば — 一般的法則・恒常的な条件関係、または「すればするほど」型の反復条件。仮定条件の中でも最も一般的・客観的。<br>例：水は0度になれ<b>ば</b>、氷になる。",
+    "front": "毎日練習すれ＿＿、上手になります。 (a general, inevitable cause-and-effect relationship)",
+    "back": "ば — expresses a general rule or a constant conditional relationship, or the \"the more you do X, the more Y\" pattern. The most general and objective of the conditional forms.<br>Example: 水は0度になれ<b>ば</b>、氷になる。— \"Water turns to ice once it reaches 0 degrees.\"",
     "tag": "なら_たら_ば"
   },
   {
     "front": "なら・たら・ば の使い分けの基本イメージは？",
-    "back": "たら＝個別の仮定・時系列（〜した後で）／なら＝話題を受けての条件・アドバイス（既に出た話について）／ば＝一般法則・恒常的条件、ことわざ的表現に多い。同じ「もし」でも視点が違う。",
+    "back": "たら = an individual hypothesis or a time sequence (\"after doing ~\") / なら = a condition or piece of advice responding to a topic already raised / ば = a general rule or constant condition, common in proverb-like expressions. Even though all three can mean \"if,\" the perspective differs.",
     "tag": "なら_たら_ば"
   },
   {
-    "front": "このパン、焼きたてで温かい＿＿おいしい。（〜だからこそ、程度が高いから）",
-    "back": "〜だけあって／〜だけに — その属性・立場にふさわしい結果であることを強調。<br>例：さすが留学経験がある<b>だけあって</b>、英語が上手だ。",
+    "front": "このパン、焼きたてで温かい＿＿おいしい。 (precisely because ~ / to a degree that justifies the result)",
+    "back": "~だけあって / ~だけに — emphasizes that a result is fitting given a certain attribute or status.<br>Example: さすが留学経験がある<b>だけあって</b>、英語が上手だ。— \"As you'd expect from someone with study-abroad experience, their English is good.\"",
     "tag": "程度_理由"
   },
   {
-    "front": "彼は疲れているの＿＿、笑顔を絶やさなかった。（〜のに、逆接・意外性）",
-    "back": "のに — 予想と反する結果を表す逆接。話者の意外・不満のニュアンスを伴うことが多い。<br>例：あんなに勉強した<b>のに</b>、試験に落ちた。",
+    "front": "彼は疲れているの＿＿、笑顔を絶やさなかった。 (contrast/surprise: even though ~)",
+    "back": "のに — a contrastive expression showing a result that goes against expectations. Often carries the speaker's nuance of surprise or dissatisfaction.<br>Example: あんなに勉強した<b>のに</b>、試験に落ちた。— \"Even though I studied that much, I failed the exam.\"",
     "tag": "のに_vs_けど"
   },
   {
-    "front": "彼は疲れている＿＿、笑顔を絶やさなかった。（〜けど、単純な逆接）",
-    "back": "けど／けれど（も）— 単純な対比・逆接。のにと違い、話者の意外感・不満のニュアンスは薄く、より中立的。",
+    "front": "彼は疲れている＿＿、笑顔を絶やさなかった。 (simple contrast: but ~)",
+    "back": "けど / けれど(も) — a simple contrast/concession. Unlike のに, it carries little of the speaker's surprise or dissatisfaction and is more neutral.",
     "tag": "のに_vs_けど"
   },
   {
     "front": "のに と けど の一番の違いは？",
-    "back": "のに＝期待と違う結果に対する意外感・不満・驚きを含むことが多い／けど＝単なる事実の対比で感情的ニュアンスが薄い。文末に使う「のに！」は単独で不満の表現にもなる。",
+    "back": "のに = often includes surprise, dissatisfaction, or shock at a result that differs from what was expected / けど = a plain contrast of facts with little emotional nuance. Used alone at the end of a sentence, \"のに！\" can itself express dissatisfaction.",
     "tag": "のに_vs_けど"
   },
   {
-    "front": "無理な＿＿しなくてもいいですよ。（〜こと）",
-    "back": "〜こと — 動詞・形容詞を名詞化する形式名詞。抽象的・一般的な事柄を指すときに使う。",
+    "front": "無理な＿＿しなくてもいいですよ。 (nominalizer: こと)",
+    "back": "~こと — a formal noun that nominalizes verbs and adjectives. Used to refer to abstract or general matters.",
     "tag": "の_vs_こと"
   },
   {
-    "front": "彼が歌っている＿＿を見た。（具体的な場面を目や耳で直接とらえる）",
-    "back": "〜の — 具体的・直接知覚できる出来事を指すときに使う形式名詞。見る・聞く・手伝う等の動詞と相性がよい。<br>例：子供が公園で遊んでいる<b>の</b>を見た。",
+    "front": "彼が歌っている＿＿を見た。 (a concrete scene perceived directly by eye or ear)",
+    "back": "~の — a formal noun used to point to a concrete event that can be directly perceived. Pairs well with verbs like 見る (see), 聞く (hear), 手伝う (help).<br>Example: 子供が公園で遊んでいる<b>の</b>を見た。— \"I saw the child playing in the park.\"",
     "tag": "の_vs_こと"
   },
   {
     "front": "「の」と「こと」使い分けの基本ルールは？",
-    "back": "直接見る・聞く・手伝うなど知覚動詞＋具体的場面＝「の」。趣味・目標・一般的な事柄、話す・伝える・決める等の動詞＝「こと」。「〜ことができる」など慣用的に固定されたものは必ず「こと」。",
+    "back": "Perception verbs like 見る, 聞く, 手伝う + a concrete scene = \"の.\" Hobbies, goals, general matters, and verbs like 話す, 伝える, 決める = \"こと.\" Fixed idiomatic patterns like \"~ことができる\" always use こと.",
     "tag": "の_vs_こと"
   },
   {
-    "front": "彼が来る＿＿は分からない。（不確実：疑問詞なし、Yes/No型の不確定）",
-    "back": "〜かどうか — Yes/No疑問文を名詞節にする時に使う（か、の後に「どうか」を付ける）。<br>例：彼が来る<b>かどうか</b>分からない。",
+    "front": "彼が来る＿＿は分からない。 (uncertainty, no question word: a yes/no-type unknown)",
+    "back": "~かどうか — used to turn a yes/no question into a noun clause (add どうか after か).<br>Example: 彼が来る<b>かどうか</b>分からない。— \"I don't know whether or not he's coming.\"",
     "tag": "か_vs_かどうか"
   },
   {
-    "front": "彼がいつ来る＿＿は分からない。（疑問詞を含む不確定な内容）",
-    "back": "〜か — 疑問詞（いつ・どこ・だれ・何）を含む文を名詞節にする時はそのまま「か」を使う（どうかは不要）。<br>例：彼が<b>いつ</b>来る<b>か</b>分からない。",
+    "front": "彼がいつ来る＿＿は分からない。 (unknown content that includes a question word)",
+    "back": "~か — when a sentence contains a question word (いつ, どこ, だれ, 何), use か alone to nominalize it (どうか isn't needed).<br>Example: 彼が<b>いつ</b>来る<b>か</b>分からない。— \"I don't know when he's coming.\"",
     "tag": "か_vs_かどうか"
   },
   {
-    "front": "今度こそ合格＿＿と決めた。（自分の意志で決定）",
-    "back": "〜ことにする — 自分の意志・決定を表す。「〜する」ことに（自ら）決める、というニュアンス。<br>例：来年、留学する<b>ことにした</b>。",
+    "front": "今度こそ合格＿＿と決めた。 (a decision made by one's own will)",
+    "back": "~ことにする — expresses a decision made by one's own will. Carries the nuance of \"I decided (of my own accord) to ~.\"<br>Example: 来年、留学する<b>ことにした</b>。— \"I decided to study abroad next year.\"",
     "tag": "ことにする_vs_ことになる"
   },
   {
-    "front": "会社の都合で、大阪に転勤する＿＿。（自分の意志ではなく、外部の決定・成り行き）",
-    "back": "〜ことになる — 自分の意志ではなく、状況・他者の決定によってそうなった（決まった）ことを表す。<br>例：来月から新しい部署で働く<b>ことになりました</b>。",
+    "front": "会社の都合で、大阪に転勤する＿＿。 (not one's own decision — determined by outside circumstances)",
+    "back": "~ことになる — expresses that something was decided or came about not by one's own will, but by circumstances or someone else's decision.<br>Example: 来月から新しい部署で働く<b>ことになりました</b>。— \"It's been decided that I'll work in a new department starting next month.\"",
     "tag": "ことにする_vs_ことになる"
   },
   {
     "front": "ことにする と ことになる の主語の違いは？",
-    "back": "ことにする＝主体的・自発的な決定（自分で決めた）／ことになる＝客観的な決定・結果（外部要因、規則、自然の成り行きでそうなった）。「ことになっている」は規則・習慣を表す発展形。",
+    "back": "ことにする = a proactive, self-initiated decision (I decided it myself) / ことになる = an objective decision or outcome (came about through outside factors, rules, or the natural course of events). \"ことになっている\" is an extended form used for rules or habitual practices.",
     "tag": "ことにする_vs_ことになる"
   },
   {
-    "front": "このドアは風で＿＿。（自動詞：主語自体が変化、動作主を言わない）",
-    "back": "開く（あく）などの自動詞 — 動作の結果・状態変化そのものに焦点。他動詞と対で覚える（開く/開ける、閉まる/閉める、壊れる/壊す 等）。",
+    "front": "このドアは風で＿＿。 (intransitive verb: the subject itself changes; no agent is mentioned)",
+    "back": "Intransitive verbs like 開く (あく, \"to open\") — focus on the result or change of state itself. Best memorized in pairs with their transitive counterparts (開く/開ける, 閉まる/閉める, 壊れる/壊す, etc.).",
     "tag": "自動詞_他動詞"
   },
   {
-    "front": "彼が窓を＿＿。（他動詞：動作主が対象に働きかける）",
-    "back": "開ける（あける）などの他動詞 — 動作主が対象に意図的に働きかける動きを表す。「〜を＋他動詞」の形をとる。",
+    "front": "彼が窓を＿＿。 (transitive verb: an agent acts on an object)",
+    "back": "Transitive verbs like 開ける (あける, \"to open [something]\") — express an agent intentionally acting on an object. Takes the form \"~を + transitive verb.\"",
     "tag": "自動詞_他動詞"
   },
   {
     "front": "自動詞と他動詞、状態を表したい時に使う「てある」はどちらと結びつく？",
-    "back": "他動詞＋てある＝「（誰かが意図的にした結果）〜という状態になっている」。自動詞＋ている＝単に「〜という状態になっている」を表す。（例：ドアが開いている／ドアが開けてある）",
+    "back": "他動詞 (transitive) + てある = \"it's in a state of ~ (as a result of someone's deliberate action).\" 自動詞 (intransitive) + ている = simply \"it's in a state of ~.\" (e.g. ドアが開いている \"the door is open\" vs. ドアが開けてある \"the door has been left open [by someone].\")",
     "tag": "自動詞_他動詞"
   },
   {
-    "front": "先生に息子をほめられた。（＿＿受身：不利益・迷惑を受けたニュアンス）",
-    "back": "間接受身（迷惑の受身）— 自動詞・他動詞問わず、動作の影響を間接的に受けた人を主語にする受身。日本語特有で、多くの場合「困った・嫌だった」というニュアンスを含む。<br>例：夜中に赤ちゃんに<b>泣かれて</b>、眠れなかった。",
+    "front": "先生に息子をほめられた。 (___ passive: a nuance of being inconvenienced or bothered)",
+    "back": "間接受身 (indirect passive / nuisance passive) — a passive form where the subject is a person indirectly affected by an action, whether the verb is transitive or intransitive. Distinctively Japanese, and usually carries a nuance of \"it was a problem / I didn't like it.\"<br>Example: 夜中に赤ちゃんに<b>泣かれて</b>、眠れなかった。— \"The baby cried [on me] in the middle of the night, and I couldn't sleep.\"",
     "tag": "受身の種類"
   },
   {
-    "front": "私は先生に名前を呼ばれた。（＿＿受身：直接その動作の対象になった）",
-    "back": "直接受身 — 動作を直接受けた対象がそのまま主語になる、最も基本的な受身。「AはBに（を）〜される」の形。",
+    "front": "私は先生に名前を呼ばれた。 (___ passive: directly the target of the action)",
+    "back": "直接受身 (direct passive) — the most basic passive, where the person directly affected by the action becomes the subject as-is. Takes the form \"A は B に(を) ~される.\"",
     "tag": "受身の種類"
   },
   {
-    "front": "新しい図書館が来年建て＿＿予定です。（動作主を言わない・ものが主語の受身）",
-    "back": "られる（持ち主のない受身/無生物主語の受身）— 動作主を明示せず、出来事・事実を客観的に述べる時に使う。ニュース・説明文でよく使われる。<br>例：このビルは1990年に建て<b>られました</b>。",
+    "front": "新しい図書館が来年建て＿＿予定です。 (a passive where the agent isn't stated and a thing is the subject)",
+    "back": "られる (agentless / inanimate-subject passive) — used to state a fact or event objectively without naming the agent. Common in news and explanatory writing.<br>Example: このビルは1990年に建て<b>られました</b>。— \"This building was built in 1990.\"",
     "tag": "受身の種類"
   },
   {
     "front": "直接受身・間接受身（迷惑）・無生物主語の受身の違いを一言で？",
-    "back": "直接＝自分が直接何かをされた／間接（迷惑）＝他人の行為の影響を間接的・被害的に受けた／無生物主語＝動作主をぼかして事実・出来事を客観的に述べる。日本語の受身は英語より「被害・影響」の意味合いが強いことが多い。",
+    "back": "Direct = you were directly affected by something / Indirect (nuisance) = you were indirectly, often negatively, affected by someone else's action / Inanimate-subject = the agent is left vague to state a fact or event objectively. Japanese passives often carry a stronger sense of \"being affected/harmed\" than English ones.",
     "tag": "受身の種類"
   },
   {
-    "front": "友達が引っ越しを手伝って＿＿。（自分（話し手側）が誰かから動作を受ける、視点は自分）",
-    "back": "くれた — 相手が自分（または身内）のために何かをしてくれる。動作主が主語、恩恵を受ける人は自分側。<br>例：友達が手伝って<b>くれた</b>。",
+    "front": "友達が引っ越しを手伝って＿＿。 (the speaker's side receives an action from someone; viewpoint = self)",
+    "back": "くれた — someone does something for the speaker (or the speaker's in-group). The person performing the action is the subject; the one who benefits is the speaker's side.<br>Example: 友達が手伝って<b>くれた</b>。— \"My friend helped me [out of kindness].\"",
     "tag": "あげる_もらう_くれる"
   },
   {
-    "front": "私は友達に荷物を持って＿＿。（自分が誰かに（頼んで）してもらう、視点は自分／受益者が主語）",
-    "back": "もらった — 自分（または身内）が他者に何かをしてもらう。恩恵を受ける人が主語。<br>例：私は友達に手伝って<b>もらった</b>。",
+    "front": "私は友達に荷物を持って＿＿。 (the speaker gets someone to do something (by asking); the beneficiary is the subject)",
+    "back": "もらった — the speaker (or their in-group) has someone else do something for them. The beneficiary is the subject.<br>Example: 私は友達に手伝って<b>もらった</b>。— \"I had my friend help me.\"",
     "tag": "あげる_もらう_くれる"
   },
   {
-    "front": "私は友達に本を貸して＿＿。（自分が相手のために何かをする、視点は自分／与える側が主語）",
-    "back": "あげた — 自分（または身内）が他者のために何かをする。動作をする人が主語。目上の人には「さしあげる」、対等〜目下には「あげる」を使うが、目上の人に直接使うと失礼になりやすいので注意。",
+    "front": "私は友達に本を貸して＿＿。 (the speaker does something for someone else; the giver is the subject)",
+    "back": "あげた — the speaker (or their in-group) does something for someone else. The one performing the action is the subject. Use さしあげる for social superiors and あげる for equals/subordinates — using あげる directly toward a superior can easily sound rude, so be careful.",
     "tag": "あげる_もらう_くれる"
   },
   {
     "front": "あげる・もらう・くれる の視点の違いをまとめると？",
-    "back": "あげる＝私→他者（する側が主語）／もらう＝私が他者から（受ける側が主語）／くれる＝他者→私（する側が主語だが恩恵は自分に向く）。「くれる」は必ず自分（または身内）が受益者であることが前提。",
+    "back": "あげる = me → someone else (the giver is the subject) / もらう = me receiving from someone else (the receiver is the subject) / くれる = someone else → me (the giver is the subject, but the benefit flows to me). くれる always presupposes that the speaker, or someone in the speaker's in-group, is the beneficiary.",
     "tag": "あげる_もらう_くれる"
   },
   {
-    "front": "今にも泣き＿＿な顔をしていた。（〜しそうな、そうなる寸前の様子）",
-    "back": "〜そうな（様態のそうだ＋名詞修飾）— 動詞ます形＋そう＋な＋名詞、で「今にも〜しそうな様子」を表す連体修飾。",
+    "front": "今にも泣き＿＿な顔をしていた。 (on the verge of ~ing / looking like it's about to happen)",
+    "back": "~そうな (appearance-そうだ + noun modifier) — verb ます-stem + そう + な + noun, meaning \"a look/state that seems about to ~ any moment now.\"",
     "tag": "様態表現"
   },
   {
-    "front": "彼はこの仕事に慣れて＿＿ようだ。（〜てきた、変化が徐々に進んできたことを示す）",
-    "back": "〜てきた — 過去から現在への変化・継続を表す。「〜ていく」（現在から未来への変化）と対で覚える。<br>例：日本語が話せるようになっ<b>てきた</b>。",
+    "front": "彼はこの仕事に慣れて＿＿ようだ。 (~てきた: shows a change that has gradually progressed)",
+    "back": "~てきた — expresses a change or continuation from the past leading up to the present. Best memorized as a pair with ~ていく (change from the present into the future).<br>Example: 日本語が話せるようになっ<b>てきた</b>。— \"I've gradually become able to speak Japanese.\"",
     "tag": "変化の表現"
   },
   {
-    "front": "これから状況はもっと悪くなって＿＿だろう。（現在から未来への変化）",
-    "back": "〜いく — 「〜ていく」は現在から未来に向かう変化・継続を表す。てきた（過去→現在）と対で覚える。",
+    "front": "これから状況はもっと悪くなって＿＿だろう。 (change from the present into the future)",
+    "back": "~いく — \"~ていく\" expresses a change or continuation heading from the present into the future. Pairs with てきた (past → present).",
     "tag": "変化の表現"
   },
   {
-    "front": "このレポートは明日までに書か＿＿ばならない。（義務）",
-    "back": "〜なければならない／〜なくてはいけない — 義務・必要性を表す基本形。会話では「なきゃ」「なくちゃ」に縮約されることが多い。",
+    "front": "このレポートは明日までに書か＿＿ばならない。 (obligation)",
+    "back": "~なければならない / ~なくてはいけない — the basic forms for expressing obligation or necessity. Often contracted in conversation to なきゃ or なくちゃ.",
     "tag": "義務_許可可能性"
   },
   {
-    "front": "急いでいるので、先に帰っ＿＿もいいですか。（許可を求める）",
-    "back": "〜てもいい／〜てもかまわない — 許可を求める・与える表現。",
+    "front": "急いでいるので、先に帰っ＿＿もいいですか。 (asking for permission)",
+    "back": "~てもいい / ~てもかまわない — expressions for asking for or granting permission.",
     "tag": "義務_許可可能性"
   },
   {
-    "front": "一人で＿＿ようになった。（〜できるようになる、能力の変化）",
-    "back": "〜できるようになる — できなかったことができるようになる、能力・状態の変化を表す。「〜ようになる」は状態・習慣の変化全般に使える（例：野菜を食べるようになった＝習慣の変化）。",
+    "front": "一人で＿＿ようになった。 (~できるようになる: a change in ability)",
+    "back": "~できるようになる — expresses becoming able to do something you couldn't do before; a change in ability or state. \"~ようになる\" can be used broadly for any change in state or habit (e.g. 野菜を食べるようになった — \"I've started eating vegetables [as a habit change]\").",
     "tag": "可能性_能力"
   },
   {
-    "front": "このワインは古ければ古い＿＿おいしくなる。（〜すればするほど）",
-    "back": "〜ば〜ほど — 「〜すればするほど、程度が増す」という比例関係を表す複合表現。<br>例：練習すればする<b>ほど</b>上手になる。",
+    "front": "このワインは古ければ古い＿＿おいしくなる。 (the more you ~, the more ~)",
+    "back": "~ば~ほど — a compound expression meaning \"the more you do ~, the more [a degree] increases.\"<br>Example: 練習すればする<b>ほど</b>上手になる。— \"The more you practice, the better you get.\"",
     "tag": "比較"
   },
   {
-    "front": "彼女は疲れている＿＿、休もうとしなかった。（〜ながらも、逆接）",
-    "back": "〜ながら（も）— 「〜だけれども」という逆接を表す（〜つつ、と同じ用法）。単純接続の「〜ながら」（同時動作）と区別。",
+    "front": "彼女は疲れている＿＿、休もうとしなかった。 (~ながらも: contrast/concession)",
+    "back": "~ながら(も) — expresses a contrast meaning \"even though ~\" (same usage as ~つつ). Distinguish from the simple-connective ~ながら (simultaneous actions).",
     "tag": "のに_vが_けど"
   },
   {
-    "front": "新製品の発表会は来週行われる＿＿。（〜予定だ、公式な予定）",
-    "back": "〜予定だ／〜こととなっている — フォーマルな予定・取り決めを表す表現。「ことになっている」と近い意味で、規則・慣習を表す。",
+    "front": "新製品の発表会は来週行われる＿＿。 (~予定だ: a formal/official plan)",
+    "back": "~予定だ / ~こととなっている — formal expressions for a plan or arrangement. Close in meaning to \"ことになっている,\" used for rules or conventions.",
     "tag": "ことにする_vs_ことになる"
   },
   {
-    "front": "彼は独身だ＿＿聞いていたが、実は結婚していた。（〜と（いう話を）聞いていた、伝聞の引用）",
-    "back": "〜と聞いていた／〜と（いう）話だ — 伝聞情報を引用する形。そうだ（伝聞）と似ているが、情報源をより明示的にしたい時に使う。",
+    "front": "彼は独身だ＿＿聞いていたが、実は結婚していた。 (quoting something heard secondhand)",
+    "back": "~と聞いていた / ~と(いう)話だ — a form for quoting hearsay information. Similar to そうだ (hearsay), but used when you want to make the source of the information more explicit.",
     "tag": "そうだ_伝聞"
   },
   {
-    "front": "アンケートによると、七割の人が賛成＿＿。（〜という結果だ、調査報告）",
-    "back": "〜という結果だった／〜そうだ — によると〜そうだ、の形で調査・データに基づく伝聞情報を報告する定型表現。<br>例：アンケート<b>によると</b>、七割が賛成だった<b>そうだ</b>。",
+    "front": "アンケートによると、七割の人が賛成＿＿。 (~という結果だ: reporting a survey result)",
+    "back": "~という結果だった / ~そうだ — a set pattern, \"~によると~そうだ,\" for reporting hearsay information based on a survey or data.<br>Example: アンケート<b>によると</b>、七割が賛成だった<b>そうだ</b>。— \"According to the survey, apparently 70% were in favor.\"",
     "tag": "調査報告"
   },
   {
-    "front": "彼は宝くじに当たった＿＿、贅沢な暮らしはしていない。（〜割には、〜にしては意外に）",
-    "back": "〜割には — 前提から予想される程度に対して、実際はそうではない、というギャップを表す。",
+    "front": "彼は宝くじに当たった＿＿、贅沢な暮らしはしていない。 (~割には: surprisingly, considering ~)",
+    "back": "~割には — expresses a gap between the degree expected from a premise and how things actually turned out.",
     "tag": "比較"
   },
   {
-    "front": "どんなに疲れていても、彼は毎朝ジョギングする＿＿だ。（〜ことにしている、習慣化された決め事）",
-    "back": "〜ことにしている — 自分で決めて習慣的に続けていることを表す（ことにする、の継続・習慣バージョン）。",
+    "front": "どんなに疲れていても、彼は毎朝ジョギングする＿＿だ。 (~ことにしている: a self-imposed habit)",
+    "back": "~ことにしている — expresses something you decided for yourself and continue as a habit (the continuous/habitual version of ことにする).",
     "tag": "ことにする_vs_ことになる"
   },
   {
-    "front": "道に迷った時は、人に聞け＿＿いい。（〜ばいい、アドバイス）",
-    "back": "〜ばいい／〜たらいい — 「〜すればよい」という助言・提案の定型表現。",
+    "front": "道に迷った時は、人に聞け＿＿いい。 (~ばいい: advice)",
+    "back": "~ばいい / ~たらいい — set expressions for advice or suggestions, meaning \"it would be good to ~.\"",
     "tag": "なら_たら_ば"
   },
   {
-    "front": "田中さんという＿＿人が訪ねてきました。（〜という、名前や内容を紹介する引用的用法）",
-    "back": "〜という — 名前・内容を紹介する時に使う引用的表現。「〜という＋名詞」で「〜と呼ばれる／〜という内容の」を表す。",
+    "front": "田中さんという＿＿人が訪ねてきました。 (~という: a quotative use for introducing a name or piece of content)",
+    "back": "~という — a quotative expression used to introduce a name or piece of content. \"~という + noun\" means \"called ~ / that goes by the content ~.\"",
     "tag": "という_こそあ"
   },
   {
-    "front": "向こう＿＿見えるビルが、私の会社です。（あちら側、指示語の一種、視点の共有が前提）",
-    "back": "あちら／あそこ（こそあど）— 話し手・聞き手の両方から見て遠い場所を指す。こそあどは、話し手基準（こ）、聞き手基準（そ）、両方から遠い（あ）、不明（ど）で整理する。",
+    "front": "向こう＿＿見えるビルが、私の会社です。 (that side over there — a demonstrative that presupposes a shared viewpoint between speaker and listener)",
+    "back": "あちら／あそこ（こそあど）— refers to a place far from both the speaker and the listener. Organize こそあど as: speaker's reference point (こ), listener's reference point (そ), far from both (あ), unknown (ど).",
     "tag": "という_こそあ"
   },
   {
-    "front": "そういえば＿＿、彼から連絡があったんだった。（話題を思い出す・ふと思い出す表現）",
-    "back": "そういえば — 会話の流れの中で、関連することをふと思い出した時に使う表現。",
+    "front": "そういえば＿＿、彼から連絡があったんだった。 (an expression for suddenly recalling something related to the topic)",
+    "back": "そういえば — used when something related suddenly comes to mind in the flow of conversation (\"come to think of it\").",
     "tag": "想起表現"
   },
   {
-    "front": "名前、何だった＿＿。（〜だっけ、思い出せないことを確認する表現）",
-    "back": "〜っけ — 忘れていたことを思い出そうとする、確認するくだけた表現。「〜だったっけ？」の形が多い。",
+    "front": "名前、何だった＿＿。 (~だっけ: a casual way of confirming something you can't quite recall)",
+    "back": "~っけ — a casual expression used when trying to recall or confirm something you've forgotten. Most often appears as \"~だったっけ？\".",
     "tag": "想起表現"
   },
   {
-    "front": "このホテルは駅から近い＿＿、部屋も広くていい。（複数の良い理由を並べる：〜し、〜し）",
-    "back": "〜し、〜し — 理由・事実を並列的に列挙する接続表現。複数の根拠をまとめて主張を強める時に使う。",
+    "front": "このホテルは駅から近い＿＿、部屋も広くていい。 (listing multiple good reasons: ~し、~し)",
+    "back": "~し、~し — a connective that lists reasons or facts in parallel. Used to bundle multiple pieces of evidence together to strengthen a claim.",
     "tag": "理由の列挙"
   },
   {
-    "front": "みんな忙しい＿＿、パーティーは延期しよう。（〜ことだし、〜ことだから、理由を婉曲に述べる）",
-    "back": "〜ことだし／〜ことだから — 理由を婉曲的・柔らかく述べる表現。",
+    "front": "みんな忙しい＿＿、パーティーは延期しよう。 (~ことだし／~ことだから: stating a reason indirectly/softly)",
+    "back": "~ことだし / ~ことだから — expressions that state a reason in a roundabout, softened way.",
     "tag": "理由の列挙"
   },
   {
-    "front": "彼女はまるで女優の＿＿きれいだ。（まるで〜ようだ、比喩の強調）",
-    "back": "まるで〜ようだ — 比喩を強調する副詞「まるで」とようだのセット表現。実際そうではないが、そう見える、という強い喩え。",
+    "front": "彼女はまるで女優の＿＿きれいだ。 (まるで～ようだ: an emphasized metaphor)",
+    "back": "まるで~ようだ — a set pairing of the emphasizing adverb まるで (\"just like\") with ようだ. A strong metaphor: \"it's not actually so, but it looks/feels exactly like it.\"",
     "tag": "ようだ_vs_そうだ_vs_らしい"
   },
   {
-    "front": "台風が近づいている＿＿、風が強くなってきた。（せいか、原因として推測される）",
-    "back": "〜せいか — はっきりしないが、それが原因かもしれない、という推測を含む理由表現。ネガティブな結果に使うことが多い（良い結果には「おかげか」）。",
+    "front": "台風が近づいている＿＿、風が強くなってきた。 (~せいか: guessed as a possible cause)",
+    "back": "~せいか — a reason expression that includes a guess: \"maybe it's because of ~, though it's not certain.\" Usually used for negative outcomes (use ~おかげか for positive ones).",
     "tag": "理由の推測"
   },
   {
-    "front": "今日は早く起きた＿＿、頭がすっきりしている。（おかげで、良い結果の理由）",
-    "back": "〜おかげで／〜おかげか — ポジティブな結果の理由を表す（せいで、はネガティブ）。",
+    "front": "今日は早く起きた＿＿、頭がすっきりしている。 (おかげで: the reason for a good outcome)",
+    "back": "~おかげで / ~おかげか — expresses the reason for a positive outcome (as opposed to ~せいで, which is negative).",
     "tag": "理由の推測"
   },
   {
-    "front": "彼の話は本当か嘘か、＿＿にしても面白い。（〜にしても、譲歩：どちらであっても）",
-    "back": "〜にしても — 「たとえ〜であっても」という譲歩を表す。「〜としても」とほぼ同義。",
+    "front": "彼の話は本当か嘘か、＿＿にしても面白い。 (~にしても: concession — either way)",
+    "back": "~にしても — expresses a concession meaning \"even if ~.\" Nearly synonymous with ~としても.",
     "tag": "譲歩表現"
   },
   {
-    "front": "どんなに安くても、必要ない物は買わない＿＿。（たとえ〜ても、極端な仮定の譲歩）",
-    "back": "たとえ〜ても — 極端な状況を仮定してもなお、という強い譲歩表現。「どんなに〜ても」とセットで使われることが多い。",
+    "front": "どんなに安くても、必要ない物は買わない＿＿。 (たとえ~ても: a strong concession with an extreme hypothetical)",
+    "back": "たとえ~ても — a strong concession expression: \"even supposing an extreme situation, ~ still holds.\" Often paired with どんなに~ても.",
     "tag": "譲歩表現"
   },
   {
-    "front": "これさえあれば、他に何もいらない。（〜さえ〜ば、最低条件）",
-    "back": "〜さえ〜ば — 「これだけあれば十分」という、必要十分条件・最低条件を強調する表現。",
+    "front": "これさえあれば、他に何もいらない。 (~さえ~ば: the bare minimum condition)",
+    "back": "~さえ~ば — emphasizes a necessary-and-sufficient / minimum condition: \"as long as you have just this, that's enough.\"",
     "tag": "条件の強調"
   },
   {
-    "front": "必ずしも高い物がいい物だ＿＿限らない。（〜とは限らない、部分否定）",
-    "back": "〜とは限らない — 「必ずしもそうではない」という部分否定を表す。「必ずしも」とセットで使われることが多い。",
+    "front": "必ずしも高い物がいい物だ＿＿限らない。 (~とは限らない: partial negation)",
+    "back": "~とは限らない — expresses a partial negation: \"that's not necessarily always true.\" Often paired with 必ずしも (\"not necessarily\").",
     "tag": "条件の強調"
   }
 ]
